@@ -6,7 +6,6 @@ In this task, we employ SparkSQL to extract pivotal insights from housing sales 
 - What's the average price of homes yearly, based on their construction year, for those with three bedrooms and three bathrooms?
 - What's the average price of homes annually, considering their construction year, for those with specific attributes: three bedrooms, three bathrooms, two floors, and a size of 2,000 square feet or more?
 - What's the average price of homes per "view" rating, where the average home price is $350,000 or higher?
-*** Execute the Python Notebook for solutions.
 
 ## Files
 Jupyter Notebook - Home_Sales/Home_Sales.ipynb
