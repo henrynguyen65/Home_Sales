@@ -11,10 +11,10 @@ In this task, we employ SparkSQL to extract pivotal insights from housing sales 
 Jupyter Notebook - Home_Sales/Home_Sales.ipynb
 
 ## Execution Instructions
-Launch Jupyter Notebook: jupyter notebook
-Access Jupyter Notebook via a browser
-Open the file "Home_Sales/Home_Sales.ipynb" using Jupyter Notebook
-Click on 'Cell > Run All' to execute
+- Launch Jupyter Notebook: jupyter notebook
+- Access Jupyter Notebook via a browser
+- Open the file "Home_Sales/Home_Sales.ipynb" using Jupyter Notebook
+- Click on 'Cell > Run All' to execute
 
-## Disclaimer
-This repository is intended solely for educational purposes. Copyright 2024 edX Boot Camps LLC. All rights reserved.
+## Resources
+Class acitivy and Stack Overflow Forum
